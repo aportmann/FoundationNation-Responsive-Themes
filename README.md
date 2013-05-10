@@ -3,6 +3,8 @@ FoundationNation-Responsive-Themes
 
 >###This repo is made for the free version of FoundationNation, a responsive multi-platform theme system that utilizes Foundation by Zurb CSS frame work and numerous other invaluable assets. Check it out!
 >
+>![Alt text](http://img.youtube.com/vi/P9_tVosJBGE/0.jpg "FoundationNation Theme Preview Image")
+>
 >Features:
 *   Foundation Zurb Framework
 *   Fully Responsive Theme Design for multiple platforms!
