@@ -1,0 +1,4 @@
+In this Github folder you will find downloads for each of the entire platform versions of the theme in zip format.
+I did this to make life easy for anyone to who wishes to quickly try out my theme for any of the provided platforms.
+
+CRC and SHA-1 integrity checks for each of these zip file will be included in this text document.
